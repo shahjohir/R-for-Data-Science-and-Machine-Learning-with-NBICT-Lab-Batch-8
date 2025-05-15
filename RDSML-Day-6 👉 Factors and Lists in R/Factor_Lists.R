@@ -31,10 +31,10 @@ ny_list
 ny_list = list(pieces = a, colors = b, Message = c)
 ny_list
 # Calling a specific data structure
-my_list['colors']
+ny_list['colors']
 
 # Calling Specific items from the data structure
-my_list$clors[2]
+ny_list$clors[2]
 
 
 
